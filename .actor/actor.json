@@ -1,0 +1,12 @@
+{
+  "actorSpecification": 1,
+  "name": "linkedin-profile-reactions",
+  "title": "LinkedIn profile reactions Scraper",
+  "description": "",
+  "version": "0.0",
+  "minMemoryMbytes": 128,
+  "maxMemoryMbytes": 256,
+  "usesStandbyMode": false,
+  "input": "./input_schema.json",
+  "dockerfile": "./Dockerfile"
+}
