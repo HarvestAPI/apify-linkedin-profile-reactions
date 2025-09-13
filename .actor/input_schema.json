@@ -15,6 +15,13 @@
       "type": "integer",
       "description": "Maximum number of reactions to scrape per each profile",
       "prefill": 10
+    },
+    "postedLimit": {
+      "title": "Posted Limit (filter)",
+      "type": "string",
+      "description": "Fetch posts no older than X time. Options: '24h', 'week', 'month'.",
+      "editor": "select",
+      "enum": ["any", "24h", "week", "month", "3months", "6months", "year"]
     }
   }
 }
