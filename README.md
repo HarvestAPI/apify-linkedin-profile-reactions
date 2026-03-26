@@ -105,7 +105,6 @@ Here is the example on just 1 result output of this actor:
       "likes": 1496,
       "comments": 63,
       "shares": 171,
-      "impressions": 0,
       "reactions": [
         {
           "type": "LIKE",
@@ -144,3 +143,7 @@ We continuously enhance our tools based on user feedback. If you encounter techn
 - Create an issue on the actor’s Issues tab in Apify Console
 - Chat with us on our [Discord server](https://discord.gg/TGA9k9u2gE)
 - Or contact us at contact@harvest-api.com
+
+**\* \* \***
+
+**Disclaimer**: This Actor is an independent tool and is not affiliated with, endorsed by, or sponsored by LinkedIn Corporation. LinkedIn® is a registered trademark of LinkedIn Corporation. All trademarks are property of their respective owners.
